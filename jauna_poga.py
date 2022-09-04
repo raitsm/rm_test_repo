@@ -1,4 +1,6 @@
 print("new button")
 
-print("and hello, world")
+print("this row was added on Day 2")
+
+print("and hello, world, line corrected on Day 2")
 
